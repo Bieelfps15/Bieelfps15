@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="center">Contatos</h4>
+<!--<h4 align="center">Contatos</h4>
 
 ###
 
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+-->
 <br clear="both">
 <div align="center">
 <picture>
