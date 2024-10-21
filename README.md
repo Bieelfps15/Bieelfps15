@@ -27,21 +27,19 @@
 </div>
 
 ###
-
-<!--<h4 align="center">Contatos</h4>
+<!--
+<h4 align="center">Contatos</h4>
 
 ###
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/gabriel-augusto-b525691b6/" rel="noopener">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
 ###
--->
+
 <br clear="both">
 <div align="center">
 <picture>
@@ -50,3 +48,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bieelfps15/bieelfps15/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+-->
